@@ -8,7 +8,7 @@ dogs.enqueue({
   gender: 'Male',
   age: 15,
   breed: 'Golden Doodle',
-  story: 'Loved very much'
+  story: 'Hes not just a good boy, hes the best boy'
 });
 
 dogs.enqueue({
@@ -17,15 +17,15 @@ dogs.enqueue({
   gender: 'Female',
   age: 1,
   breed: 'Golden retriever',
-  story: 'Loved very much'
+  story: 'He bites adopt at your own risk'
 });
 dogs.enqueue({
   image: 'https://www.thesprucepets.com/thmb/LkPSN5w13M0iYTkztuYjCTorh6g=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/husky-dog-lying-in-the-915124768-34493760df9648f99961b50a16c39529.jpg',
-  name: 'Raptor',
+  name: 'Kratos',
   gender: 'Male',
   age: 7,
   breed: 'Husky',
-  story: 'Loved very much'
+  story: 'Hes Greek'
 });
 
 const DogService = {
